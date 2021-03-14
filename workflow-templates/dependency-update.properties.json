@@ -1,7 +1,7 @@
 {
   "name": "Dependency update workflow",
   "description": "Check project dependencies and creates pull request with new versions",
-  "iconName": "https://iconape.com/wp-content/png_logo_vector/yarn-2.png",
+  "iconName": "yarn",
   "categories": [
     "TypeScript",
     "JavaScript"
