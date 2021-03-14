@@ -1,8 +1,9 @@
 {
   "name": "Dependency update workflow",
   "description": "Check project dependencies and creates pull request with new versions",
-  "iconName": "example-icon",
+  "iconName": "Node.js logo",
   "categories": [
-    "NodeJS"
+    "TypeScript",
+    "JavaScript"
   ]
 }
