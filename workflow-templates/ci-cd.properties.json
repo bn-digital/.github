@@ -1,13 +1,13 @@
 {
   "name": "CI/CD Pipeline",
   "description": "Complete CI pipeline for NodeJS-based projects, including Docker image build, tests and Helm chart deployment",
-  "iconName": "githubactions",
+  "iconName": "kubernetes",
   "filePatterns": [
     "helmfile.yaml",
     "skaffold.yaml"
   ],
   "categories": [
     "Deployment",
-    "TypeScript"
+    "Continuous Integration"
   ]
 }
