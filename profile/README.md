@@ -26,7 +26,7 @@ We believe that the most value is brought by modern yet reliable tools, automati
 
 #### Languages
 
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-ff523c?style=flat&logo=javascript&logoColor=white&color=262523)
 ![](https://img.shields.io/badge/Dialect-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 
 #### IDE
