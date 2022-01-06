@@ -26,51 +26,53 @@ We believe that the most value is brought by modern yet reliable tools, automati
 
 #### Languages
 
-![](https://img.shields.io/badge/Language-JavaScript-ff523c?style=flat&logo=javascript&logoColor=white&color=262523)
-![](https://img.shields.io/badge/Dialect-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-Language-ff523c?style=flat-square&logo=javascript&logoColor=white&color=262523)
+![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
 
 #### IDE
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
 
 #### Front-end
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Animations-GSAP-informational?style=flat&logo=greensock&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/UI_Framework-Ant_Design-informational?style=flat&logo=antdesign&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/UI_Framework-Tailwind_UI-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/UI_Framework-DevExpress-informational?style=flat&logo=devexpress&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/UI_Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data_Framework-D3-informational?style=flat&logo=d3.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Vue-Framework-informational?style=flat-square&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GSAP-Animations-informational?style=flat-square&logo=greensock&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ant_Design-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevExpress-UI_Framework-informational?style=flat-square&logo=devexpress&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Bootstrap-UI_Framework-informational?style=flat-square&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/D3-Data_Framework-informational?style=flat-square&logo=d3.js&logoColor=white&color=2bbc8a)
 
 #### Back-end
-![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CRM-Strapi-informational?style=flat&logo=strapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/API-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/API-Apollo-informational?style=flat&logo=apollo&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Node.js-Framework-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Strapi-CRM-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollo&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
 
 #### Integrations
-![](https://img.shields.io/badge/Authorisation-Google-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CRM-Strapi-informational?style=flat&logo=strapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Stripe-Payments-informational?style=flat-square&logo=stripe&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Paypal-Payments-informational?style=flat-square&logo=paypal&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Google-Authorisation-informational?style=flat-square&logo=google&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Facebook-Authorisation-informational?style=flat-square&logo=facebook&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Mailchimp-Emails-informational?style=flat-square&logo=mailchimp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hubspot-Marketing-informational?style=flat-square&logo=hubspot&logoColor=white&color=2bbc8a)
 
 #### Security & Monitoring
-![](https://img.shields.io/badge/Error_Tracker-Sentry-informational?style=flat&logo=sentry&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Quality_Tracker-SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Secrets_Storage-Vault-informational?style=flat&logo=vault&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Sentry-Error_Tracker-informational?style=flat-square&logo=sentry&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SonarQube-Quality_Tracker-informational?style=flat-square&logo=sonarqube&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Vault-Secrets_Storage-informational?style=flat-square&logo=vault&logoColor=white&color=2bbc8a)
 
 #### DevOps
-![](https://img.shields.io/badge/Repository-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI_CD-Github_Actions-informational?style=flat&logo=github_actions&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Repository-Gitlab-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI_CD-Gitlab_CI-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Containerisation-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Github-Repository-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Github_Actions-CI|CD-informational?style=flat-square&logo=github_actions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Gitlab-Repository-informational?style=flat-square&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Gitlab_CI-CI|CD-informational?style=flat-square&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Docker-Containerisation-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
 
