@@ -24,8 +24,19 @@ We create presentations and interactive prototypes to convey and pitch the idea,
 We always hand-pick a tech stack according to business needs, goals, and existing processes.
 We believe that the most value is brought by modern yet reliable tools, automation of development processes, and high user experience standards.
 
-#### Our IDE
+#### Languages
+
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dialect-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+
+#### IDE
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
+#### Front-end
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
+
 
 ### bn's engineering pillars
 
