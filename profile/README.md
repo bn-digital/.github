@@ -26,12 +26,12 @@ We believe that the most value is brought by modern yet reliable tools, automati
 
 #### Languages
 
-![](https://img.shields.io/badge/JavaScript-Language-ff523c?style=flat-square&logo=javascript&logoColor=white&color=262523)
+![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
 
 #### IDE
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-WebStorm-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IntelliJ_IDEA-Editor-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/WebStorm-Editor-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
 
 #### Front-end
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
