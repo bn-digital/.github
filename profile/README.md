@@ -75,6 +75,10 @@ We believe that the most value is brought by modern yet reliable tools, automati
 ![](https://img.shields.io/badge/Docker-Containerisation-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
 
+#### Cloud Providers
+![](https://img.shields.io/badge/Digital_Ocean-Cloud-informational?style=flat-square&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat-square&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Azure-Cloud-informational?style=flat-square&logo=microsoftazure&logoColor=white&color=2bbc8a)
 
 
 ### bn's engineering pillars
