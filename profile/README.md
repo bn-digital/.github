@@ -4,14 +4,34 @@
 
 BN Digital is a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. We are designers and engineers who make others' lives happier. We excel in fintech, healthcare, and real estate industries, working with such companies as Microsoft, Snap Inc., Cambridge University, etc.
 
-### bn's value pillars
+### bn's services
+
+* **[Digital Products Development](https://bndigital.co/services/solution/digital-products-development)**  
+We design, develop, and implement engaging digital products and experiences that people would love to use.
+* **[Enterprise Solutions Development](https://bndigital.co/services/solution/enterprise-solutions-development)**  
+We build highly specialized platforms and systems that boost productivity with exceptional user experience.
+* **[Design Systems Implementation](https://bndigital.co/services/solution/design-systems-implementation)**  
+We create and build a set of principles, rules, and reusable components that allow managing design at scale.
+* **[Mobile Applications Creation](https://bndigital.co/services/solution/mobile-applications)**  
+We design, develop, and ship exciting mobile applications for iOS and Android platforms.
+* **[Tailor-made Corporate Websites Creation](https://bndigital.co/services/solution/tailor-made-websites)**  
+We design, develop, and deliver eye-catching websites that engage customers and stand out from the crowd.
+* **[Investor Packages](https://bndigital.co/services/solution/investor-packages)**  
+We create presentations and interactive prototypes to convey and pitch the idea, get attention, and raise funds.
+
+### technology stack and expertise
+
+We always hand-pick a tech stack according to business needs, goals, and existing processes.
+We believe that the most value is brought by modern yet reliable tools, automation of development processes, and high user experience standards.
+
+### bn's engineering pillars
 
 - **The best code is no code at all**
-> It’s painful for most software developers to acknowledge this, because they love code so much, but the best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported. Every time you write new code, you should do so reluctantly, under duress, because you completely exhausted all your other options. Code is only our enemy because there are so many of us programmers writing so damn much of it. If you can’t get away with no code, the next best thing is to start with brevity.
+> It's painful for most software developers to acknowledge this because they love code so much, but the best code is no code at all. Every new line of code brought into the world is the code that has to be debugged, read, understood, and supported. Every time we write new code, we do so reluctantly, under duress, because we have exhausted all other options. Code is only our enemy because so many programmers are writing so damn much of it. 
 
-As we really love writing code, thats why we writing as little of it as possible.
+As we really love writing code, that's why we write as little of it as possible.
 
 - **Use open-source software and contribute back**
-> Despite the fact that most people would have never predicted that a system based around people working for free would work, open source philosophy is making a big impact. The thing to understand is that open source embraces the philosophy of sharing, and because of this, concepts such as piracy are no longer a problem. You are encouraged to share and spread open source products as much as you like. You can copy and redistribute, even after modification.
+> Although most people would have never predicted that a system based around people working for free would work, open-source philosophy makes a significant impact. Open source embraces the philosophy of sharing, and because of this, concepts such as piracy are no longer a problem. We are eager to share and spread open source products as much as possible. We encourage others to leverage our experience, copy the code and freely modify it.
 
-This idea provides us a freedom and superpower to create and develop software of any complexity or business domain. In gratitude we support open-source community and share our non-commercial code and knowledge.
+This idea provides us with the freedom and superpower to create and develop software of any complexity or business domain. In gratitude, we support the open-source community and share our non-commercial code and knowledge.
