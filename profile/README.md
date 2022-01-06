@@ -24,6 +24,9 @@ We create presentations and interactive prototypes to convey and pitch the idea,
 We always hand-pick a tech stack according to business needs, goals, and existing processes.
 We believe that the most value is brought by modern yet reliable tools, automation of development processes, and high user experience standards.
 
+#### Our IDE
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
 ### bn's engineering pillars
 
 - **The best code is no code at all**
