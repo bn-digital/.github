@@ -35,10 +35,29 @@ We believe that the most value is brought by modern yet reliable tools, automati
 
 #### Front-end
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/UI_Framework-Ant_Design-informational?style=flat&logo=ant_design&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/UI_Framework-Ant_Design-informational?style=flat&logo=ant.design&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Framework-D3-informational?style=flat&logo=d3.js&logoColor=white&color=2bbc8a)
+
+#### Back-end
+![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CRM-Strapi-informational?style=flat&logo=strapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+
+#### Monitoring
+![](https://img.shields.io/badge/Error_Tracker-Sentry-informational?style=flat&logo=sentry&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Quality_Tracker-SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=2bbc8a)
+
+#### DevOps
+![](https://img.shields.io/badge/Repository-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI_CD-Github_Actions-informational?style=flat&logo=github_actions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Repository-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI_CD-Gitlab_CI-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Containerisation-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
 
