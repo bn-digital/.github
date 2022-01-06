@@ -38,7 +38,8 @@ We believe that the most value is brought by modern yet reliable tools, automati
 ![](https://img.shields.io/badge/Vue-Framework-informational?style=flat-square&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GSAP-Animations-informational?style=flat-square&logo=greensock&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GSAP-Animations-informational?style=flat-square&logo=greensock&logoColor=white&color=2bbc8a)  
+
 ![](https://img.shields.io/badge/Ant_Design-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevExpress-UI_Framework-informational?style=flat-square&logo=devexpress&logoColor=white&color=2bbc8a)
@@ -55,7 +56,7 @@ We believe that the most value is brought by modern yet reliable tools, automati
 
 #### Integrations
 ![](https://img.shields.io/badge/Stripe-Payments-informational?style=flat-square&logo=stripe&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Paypal-Payments-informational?style=flat-square&logo=paypal&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Paypal-Payments-informational?style=flat-square&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Google-Authorisation-informational?style=flat-square&logo=google&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Facebook-Authorisation-informational?style=flat-square&logo=facebook&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mailchimp-Emails-informational?style=flat-square&logo=mailchimp&logoColor=white&color=2bbc8a)
