@@ -55,7 +55,7 @@ We believe that the most value is brought by modern yet reliable tools, automati
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Insomnia-API Design-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Insomnia-API_Design-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
 
 #### Integrations
 ![](https://img.shields.io/badge/Stripe-Payments-informational?style=flat-square&logo=stripe&logoColor=white&color=2bbc8a)
@@ -74,7 +74,8 @@ We believe that the most value is brought by modern yet reliable tools, automati
 ![](https://img.shields.io/badge/Github-Repository-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Github_Actions-CI|CD-informational?style=flat-square&logo=githubactions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Gitlab-Repository-informational?style=flat-square&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Gitlab_CI-CI|CD-informational?style=flat-square&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Gitlab_CI-CI|CD-informational?style=flat-square&logoColor=white&color=2bbc8a)  
+
 ![](https://img.shields.io/badge/Terraform-IaaC-informational?style=flat-square&logo=terraform&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Docker-Containerisation-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a) 
