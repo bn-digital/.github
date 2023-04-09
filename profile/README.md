@@ -29,13 +29,10 @@ We believe that the most value is brought by modern yet reliable tools, automati
 ![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
 
-#### IDE
-![](https://img.shields.io/badge/IntelliJ_IDEA-Editor-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/WebStorm-Editor-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
-
 #### Front-end
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vue-Framework-informational?style=flat-square&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/LESS-Dialect-informational?style=flat-square&logo=less&logoColor=white&color=2bbc8a)
@@ -43,7 +40,6 @@ We believe that the most value is brought by modern yet reliable tools, automati
 ![](https://img.shields.io/badge/GSAP-Animations-informational?style=flat-square&logo=greensock&logoColor=white&color=2bbc8a)  
 
 ![](https://img.shields.io/badge/Ant_Design-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevExpress-UI_Framework-informational?style=flat-square&logo=devexpress&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Bootstrap-UI_Framework-informational?style=flat-square&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/D3-Data_Framework-informational?style=flat-square&logo=d3.js&logoColor=white&color=2bbc8a)
@@ -55,7 +51,6 @@ We believe that the most value is brought by modern yet reliable tools, automati
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PostgreSQL-Database-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDB-Database-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Insomnia-API_Design-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
 
 #### Integrations
 ![](https://img.shields.io/badge/Stripe-Payments-informational?style=flat-square&logo=stripe&logoColor=white&color=2bbc8a)
@@ -85,6 +80,10 @@ We believe that the most value is brought by modern yet reliable tools, automati
 ![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat-square&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Azure-Cloud-informational?style=flat-square&logo=microsoftazure&logoColor=white&color=2bbc8a)
 
+#### IDE
+![](https://img.shields.io/badge/IntelliJ_IDEA-Editor-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/WebStorm-Editor-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Insomnia-API_Design-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
 
 ### bn's engineering pillars
 
